@@ -23,7 +23,7 @@ public class Album {
     }
 
     public List<Selecao> getSelecoes() {
-        return selecoes;
+        return new ArrayList<>(selecoes);
     }
 
     public void adicionarSelecao(Selecao selecao) {

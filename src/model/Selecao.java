@@ -17,7 +17,7 @@ public class Selecao {
     }
 
     public List<Figura> getFiguras() {
-        return figuras;
+        return new ArrayList<>(figuras);
     }
 
     public void adicionarFigura(Figura figura) {
