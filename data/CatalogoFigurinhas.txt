@@ -1,0 +1,1064 @@
+1;México;JOGADOR;Goleiro México;Goleiro
+2;México;JOGADOR;Lateral Direito México;Lateral Direito
+3;México;JOGADOR;Zagueiro México;Zagueiro
+4;México;JOGADOR;Zagueiro México;Zagueiro
+5;México;JOGADOR;Lateral Esquerdo México;Lateral Esquerdo
+6;México;JOGADOR;Volante México;Volante
+7;México;JOGADOR;Meia México;Meia
+8;México;JOGADOR;Meia México;Meia
+9;México;JOGADOR;Ponta Direita México;Ponta Direita
+10;México;JOGADOR;Atacante México;Atacante
+11;México;JOGADOR;Ponta Esquerda México;Ponta Esquerda
+12;México;JOGADOR;Goleiro Reserva México;Goleiro Reserva
+13;México;JOGADOR;Defensor Reserva México;Defensor Reserva
+14;México;JOGADOR;Defensor Reserva México;Defensor Reserva
+15;México;JOGADOR;Meio-campista Reserva México;Meio-campista Reserva
+16;México;JOGADOR;Meio-campista Reserva México;Meio-campista Reserva
+17;México;JOGADOR;Atacante Reserva México;Atacante Reserva
+18;México;JOGADOR;Atacante Reserva México;Atacante Reserva
+19;México;TECNICO;Técnico México;Comissão técnica
+20;México;BRASAO;Escudo México;Brasão oficial da seleção
+21;México;BANDEIRA;Bandeira México;Bandeira nacional
+22;México;ESTADIO;Estádio México;Estádio relacionado à seleção
+23;África do Sul;JOGADOR;Goleiro África do Sul;Goleiro
+24;África do Sul;JOGADOR;Lateral Direito África do Sul;Lateral Direito
+25;África do Sul;JOGADOR;Zagueiro África do Sul;Zagueiro
+26;África do Sul;JOGADOR;Zagueiro África do Sul;Zagueiro
+27;África do Sul;JOGADOR;Lateral Esquerdo África do Sul;Lateral Esquerdo
+28;África do Sul;JOGADOR;Volante África do Sul;Volante
+29;África do Sul;JOGADOR;Meia África do Sul;Meia
+30;África do Sul;JOGADOR;Meia África do Sul;Meia
+31;África do Sul;JOGADOR;Ponta Direita África do Sul;Ponta Direita
+32;África do Sul;JOGADOR;Atacante África do Sul;Atacante
+33;África do Sul;JOGADOR;Ponta Esquerda África do Sul;Ponta Esquerda
+34;África do Sul;JOGADOR;Goleiro Reserva África do Sul;Goleiro Reserva
+35;África do Sul;JOGADOR;Defensor Reserva África do Sul;Defensor Reserva
+36;África do Sul;JOGADOR;Defensor Reserva África do Sul;Defensor Reserva
+37;África do Sul;JOGADOR;Meio-campista Reserva África do Sul;Meio-campista Reserva
+38;África do Sul;JOGADOR;Meio-campista Reserva África do Sul;Meio-campista Reserva
+39;África do Sul;JOGADOR;Atacante Reserva África do Sul;Atacante Reserva
+40;África do Sul;JOGADOR;Atacante Reserva África do Sul;Atacante Reserva
+41;África do Sul;TECNICO;Técnico África do Sul;Comissão técnica
+42;África do Sul;BRASAO;Escudo África do Sul;Brasão oficial da seleção
+43;África do Sul;BANDEIRA;Bandeira África do Sul;Bandeira nacional
+44;África do Sul;ESTADIO;Estádio África do Sul;Estádio relacionado à seleção
+45;Coreia do Sul;JOGADOR;Goleiro Coreia do Sul;Goleiro
+46;Coreia do Sul;JOGADOR;Lateral Direito Coreia do Sul;Lateral Direito
+47;Coreia do Sul;JOGADOR;Zagueiro Coreia do Sul;Zagueiro
+48;Coreia do Sul;JOGADOR;Zagueiro Coreia do Sul;Zagueiro
+49;Coreia do Sul;JOGADOR;Lateral Esquerdo Coreia do Sul;Lateral Esquerdo
+50;Coreia do Sul;JOGADOR;Volante Coreia do Sul;Volante
+51;Coreia do Sul;JOGADOR;Meia Coreia do Sul;Meia
+52;Coreia do Sul;JOGADOR;Meia Coreia do Sul;Meia
+53;Coreia do Sul;JOGADOR;Ponta Direita Coreia do Sul;Ponta Direita
+54;Coreia do Sul;JOGADOR;Atacante Coreia do Sul;Atacante
+55;Coreia do Sul;JOGADOR;Ponta Esquerda Coreia do Sul;Ponta Esquerda
+56;Coreia do Sul;JOGADOR;Goleiro Reserva Coreia do Sul;Goleiro Reserva
+57;Coreia do Sul;JOGADOR;Defensor Reserva Coreia do Sul;Defensor Reserva
+58;Coreia do Sul;JOGADOR;Defensor Reserva Coreia do Sul;Defensor Reserva
+59;Coreia do Sul;JOGADOR;Meio-campista Reserva Coreia do Sul;Meio-campista Reserva
+60;Coreia do Sul;JOGADOR;Meio-campista Reserva Coreia do Sul;Meio-campista Reserva
+61;Coreia do Sul;JOGADOR;Atacante Reserva Coreia do Sul;Atacante Reserva
+62;Coreia do Sul;JOGADOR;Atacante Reserva Coreia do Sul;Atacante Reserva
+63;Coreia do Sul;TECNICO;Técnico Coreia do Sul;Comissão técnica
+64;Coreia do Sul;BRASAO;Escudo Coreia do Sul;Brasão oficial da seleção
+65;Coreia do Sul;BANDEIRA;Bandeira Coreia do Sul;Bandeira nacional
+66;Coreia do Sul;ESTADIO;Estádio Coreia do Sul;Estádio relacionado à seleção
+67;Tchéquia;JOGADOR;Goleiro Tchéquia;Goleiro
+68;Tchéquia;JOGADOR;Lateral Direito Tchéquia;Lateral Direito
+69;Tchéquia;JOGADOR;Zagueiro Tchéquia;Zagueiro
+70;Tchéquia;JOGADOR;Zagueiro Tchéquia;Zagueiro
+71;Tchéquia;JOGADOR;Lateral Esquerdo Tchéquia;Lateral Esquerdo
+72;Tchéquia;JOGADOR;Volante Tchéquia;Volante
+73;Tchéquia;JOGADOR;Meia Tchéquia;Meia
+74;Tchéquia;JOGADOR;Meia Tchéquia;Meia
+75;Tchéquia;JOGADOR;Ponta Direita Tchéquia;Ponta Direita
+76;Tchéquia;JOGADOR;Atacante Tchéquia;Atacante
+77;Tchéquia;JOGADOR;Ponta Esquerda Tchéquia;Ponta Esquerda
+78;Tchéquia;JOGADOR;Goleiro Reserva Tchéquia;Goleiro Reserva
+79;Tchéquia;JOGADOR;Defensor Reserva Tchéquia;Defensor Reserva
+80;Tchéquia;JOGADOR;Defensor Reserva Tchéquia;Defensor Reserva
+81;Tchéquia;JOGADOR;Meio-campista Reserva Tchéquia;Meio-campista Reserva
+82;Tchéquia;JOGADOR;Meio-campista Reserva Tchéquia;Meio-campista Reserva
+83;Tchéquia;JOGADOR;Atacante Reserva Tchéquia;Atacante Reserva
+84;Tchéquia;JOGADOR;Atacante Reserva Tchéquia;Atacante Reserva
+85;Tchéquia;TECNICO;Técnico Tchéquia;Comissão técnica
+86;Tchéquia;BRASAO;Escudo Tchéquia;Brasão oficial da seleção
+87;Tchéquia;BANDEIRA;Bandeira Tchéquia;Bandeira nacional
+88;Tchéquia;ESTADIO;Estádio Tchéquia;Estádio relacionado à seleção
+89;Canadá;JOGADOR;Goleiro Canadá;Goleiro
+90;Canadá;JOGADOR;Lateral Direito Canadá;Lateral Direito
+91;Canadá;JOGADOR;Zagueiro Canadá;Zagueiro
+92;Canadá;JOGADOR;Zagueiro Canadá;Zagueiro
+93;Canadá;JOGADOR;Lateral Esquerdo Canadá;Lateral Esquerdo
+94;Canadá;JOGADOR;Volante Canadá;Volante
+95;Canadá;JOGADOR;Meia Canadá;Meia
+96;Canadá;JOGADOR;Meia Canadá;Meia
+97;Canadá;JOGADOR;Ponta Direita Canadá;Ponta Direita
+98;Canadá;JOGADOR;Atacante Canadá;Atacante
+99;Canadá;JOGADOR;Ponta Esquerda Canadá;Ponta Esquerda
+100;Canadá;JOGADOR;Goleiro Reserva Canadá;Goleiro Reserva
+101;Canadá;JOGADOR;Defensor Reserva Canadá;Defensor Reserva
+102;Canadá;JOGADOR;Defensor Reserva Canadá;Defensor Reserva
+103;Canadá;JOGADOR;Meio-campista Reserva Canadá;Meio-campista Reserva
+104;Canadá;JOGADOR;Meio-campista Reserva Canadá;Meio-campista Reserva
+105;Canadá;JOGADOR;Atacante Reserva Canadá;Atacante Reserva
+106;Canadá;JOGADOR;Atacante Reserva Canadá;Atacante Reserva
+107;Canadá;TECNICO;Técnico Canadá;Comissão técnica
+108;Canadá;BRASAO;Escudo Canadá;Brasão oficial da seleção
+109;Canadá;BANDEIRA;Bandeira Canadá;Bandeira nacional
+110;Canadá;ESTADIO;Estádio Canadá;Estádio relacionado à seleção
+111;Bósnia e Herzegovina;JOGADOR;Goleiro Bósnia e Herzegovina;Goleiro
+112;Bósnia e Herzegovina;JOGADOR;Lateral Direito Bósnia e Herzegovina;Lateral Direito
+113;Bósnia e Herzegovina;JOGADOR;Zagueiro Bósnia e Herzegovina;Zagueiro
+114;Bósnia e Herzegovina;JOGADOR;Zagueiro Bósnia e Herzegovina;Zagueiro
+115;Bósnia e Herzegovina;JOGADOR;Lateral Esquerdo Bósnia e Herzegovina;Lateral Esquerdo
+116;Bósnia e Herzegovina;JOGADOR;Volante Bósnia e Herzegovina;Volante
+117;Bósnia e Herzegovina;JOGADOR;Meia Bósnia e Herzegovina;Meia
+118;Bósnia e Herzegovina;JOGADOR;Meia Bósnia e Herzegovina;Meia
+119;Bósnia e Herzegovina;JOGADOR;Ponta Direita Bósnia e Herzegovina;Ponta Direita
+120;Bósnia e Herzegovina;JOGADOR;Atacante Bósnia e Herzegovina;Atacante
+121;Bósnia e Herzegovina;JOGADOR;Ponta Esquerda Bósnia e Herzegovina;Ponta Esquerda
+122;Bósnia e Herzegovina;JOGADOR;Goleiro Reserva Bósnia e Herzegovina;Goleiro Reserva
+123;Bósnia e Herzegovina;JOGADOR;Defensor Reserva Bósnia e Herzegovina;Defensor Reserva
+124;Bósnia e Herzegovina;JOGADOR;Defensor Reserva Bósnia e Herzegovina;Defensor Reserva
+125;Bósnia e Herzegovina;JOGADOR;Meio-campista Reserva Bósnia e Herzegovina;Meio-campista Reserva
+126;Bósnia e Herzegovina;JOGADOR;Meio-campista Reserva Bósnia e Herzegovina;Meio-campista Reserva
+127;Bósnia e Herzegovina;JOGADOR;Atacante Reserva Bósnia e Herzegovina;Atacante Reserva
+128;Bósnia e Herzegovina;JOGADOR;Atacante Reserva Bósnia e Herzegovina;Atacante Reserva
+129;Bósnia e Herzegovina;TECNICO;Técnico Bósnia e Herzegovina;Comissão técnica
+130;Bósnia e Herzegovina;BRASAO;Escudo Bósnia e Herzegovina;Brasão oficial da seleção
+131;Bósnia e Herzegovina;BANDEIRA;Bandeira Bósnia e Herzegovina;Bandeira nacional
+132;Bósnia e Herzegovina;ESTADIO;Estádio Bósnia e Herzegovina;Estádio relacionado à seleção
+133;Catar;JOGADOR;Goleiro Catar;Goleiro
+134;Catar;JOGADOR;Lateral Direito Catar;Lateral Direito
+135;Catar;JOGADOR;Zagueiro Catar;Zagueiro
+136;Catar;JOGADOR;Zagueiro Catar;Zagueiro
+137;Catar;JOGADOR;Lateral Esquerdo Catar;Lateral Esquerdo
+138;Catar;JOGADOR;Volante Catar;Volante
+139;Catar;JOGADOR;Meia Catar;Meia
+140;Catar;JOGADOR;Meia Catar;Meia
+141;Catar;JOGADOR;Ponta Direita Catar;Ponta Direita
+142;Catar;JOGADOR;Atacante Catar;Atacante
+143;Catar;JOGADOR;Ponta Esquerda Catar;Ponta Esquerda
+144;Catar;JOGADOR;Goleiro Reserva Catar;Goleiro Reserva
+145;Catar;JOGADOR;Defensor Reserva Catar;Defensor Reserva
+146;Catar;JOGADOR;Defensor Reserva Catar;Defensor Reserva
+147;Catar;JOGADOR;Meio-campista Reserva Catar;Meio-campista Reserva
+148;Catar;JOGADOR;Meio-campista Reserva Catar;Meio-campista Reserva
+149;Catar;JOGADOR;Atacante Reserva Catar;Atacante Reserva
+150;Catar;JOGADOR;Atacante Reserva Catar;Atacante Reserva
+151;Catar;TECNICO;Técnico Catar;Comissão técnica
+152;Catar;BRASAO;Escudo Catar;Brasão oficial da seleção
+153;Catar;BANDEIRA;Bandeira Catar;Bandeira nacional
+154;Catar;ESTADIO;Estádio Catar;Estádio relacionado à seleção
+155;Suíça;JOGADOR;Goleiro Suíça;Goleiro
+156;Suíça;JOGADOR;Lateral Direito Suíça;Lateral Direito
+157;Suíça;JOGADOR;Zagueiro Suíça;Zagueiro
+158;Suíça;JOGADOR;Zagueiro Suíça;Zagueiro
+159;Suíça;JOGADOR;Lateral Esquerdo Suíça;Lateral Esquerdo
+160;Suíça;JOGADOR;Volante Suíça;Volante
+161;Suíça;JOGADOR;Meia Suíça;Meia
+162;Suíça;JOGADOR;Meia Suíça;Meia
+163;Suíça;JOGADOR;Ponta Direita Suíça;Ponta Direita
+164;Suíça;JOGADOR;Atacante Suíça;Atacante
+165;Suíça;JOGADOR;Ponta Esquerda Suíça;Ponta Esquerda
+166;Suíça;JOGADOR;Goleiro Reserva Suíça;Goleiro Reserva
+167;Suíça;JOGADOR;Defensor Reserva Suíça;Defensor Reserva
+168;Suíça;JOGADOR;Defensor Reserva Suíça;Defensor Reserva
+169;Suíça;JOGADOR;Meio-campista Reserva Suíça;Meio-campista Reserva
+170;Suíça;JOGADOR;Meio-campista Reserva Suíça;Meio-campista Reserva
+171;Suíça;JOGADOR;Atacante Reserva Suíça;Atacante Reserva
+172;Suíça;JOGADOR;Atacante Reserva Suíça;Atacante Reserva
+173;Suíça;TECNICO;Técnico Suíça;Comissão técnica
+174;Suíça;BRASAO;Escudo Suíça;Brasão oficial da seleção
+175;Suíça;BANDEIRA;Bandeira Suíça;Bandeira nacional
+176;Suíça;ESTADIO;Estádio Suíça;Estádio relacionado à seleção
+177;Brasil;JOGADOR;Goleiro Brasil;Goleiro
+178;Brasil;JOGADOR;Lateral Direito Brasil;Lateral Direito
+179;Brasil;JOGADOR;Zagueiro Brasil;Zagueiro
+180;Brasil;JOGADOR;Zagueiro Brasil;Zagueiro
+181;Brasil;JOGADOR;Lateral Esquerdo Brasil;Lateral Esquerdo
+182;Brasil;JOGADOR;Volante Brasil;Volante
+183;Brasil;JOGADOR;Meia Brasil;Meia
+184;Brasil;JOGADOR;Meia Brasil;Meia
+185;Brasil;JOGADOR;Ponta Direita Brasil;Ponta Direita
+186;Brasil;JOGADOR;Atacante Brasil;Atacante
+187;Brasil;JOGADOR;Ponta Esquerda Brasil;Ponta Esquerda
+188;Brasil;JOGADOR;Goleiro Reserva Brasil;Goleiro Reserva
+189;Brasil;JOGADOR;Defensor Reserva Brasil;Defensor Reserva
+190;Brasil;JOGADOR;Defensor Reserva Brasil;Defensor Reserva
+191;Brasil;JOGADOR;Meio-campista Reserva Brasil;Meio-campista Reserva
+192;Brasil;JOGADOR;Meio-campista Reserva Brasil;Meio-campista Reserva
+193;Brasil;JOGADOR;Atacante Reserva Brasil;Atacante Reserva
+194;Brasil;JOGADOR;Atacante Reserva Brasil;Atacante Reserva
+195;Brasil;TECNICO;Técnico Brasil;Comissão técnica
+196;Brasil;BRASAO;Escudo Brasil;Brasão oficial da seleção
+197;Brasil;BANDEIRA;Bandeira Brasil;Bandeira nacional
+198;Brasil;ESTADIO;Estádio Brasil;Estádio relacionado à seleção
+199;Marrocos;JOGADOR;Goleiro Marrocos;Goleiro
+200;Marrocos;JOGADOR;Lateral Direito Marrocos;Lateral Direito
+201;Marrocos;JOGADOR;Zagueiro Marrocos;Zagueiro
+202;Marrocos;JOGADOR;Zagueiro Marrocos;Zagueiro
+203;Marrocos;JOGADOR;Lateral Esquerdo Marrocos;Lateral Esquerdo
+204;Marrocos;JOGADOR;Volante Marrocos;Volante
+205;Marrocos;JOGADOR;Meia Marrocos;Meia
+206;Marrocos;JOGADOR;Meia Marrocos;Meia
+207;Marrocos;JOGADOR;Ponta Direita Marrocos;Ponta Direita
+208;Marrocos;JOGADOR;Atacante Marrocos;Atacante
+209;Marrocos;JOGADOR;Ponta Esquerda Marrocos;Ponta Esquerda
+210;Marrocos;JOGADOR;Goleiro Reserva Marrocos;Goleiro Reserva
+211;Marrocos;JOGADOR;Defensor Reserva Marrocos;Defensor Reserva
+212;Marrocos;JOGADOR;Defensor Reserva Marrocos;Defensor Reserva
+213;Marrocos;JOGADOR;Meio-campista Reserva Marrocos;Meio-campista Reserva
+214;Marrocos;JOGADOR;Meio-campista Reserva Marrocos;Meio-campista Reserva
+215;Marrocos;JOGADOR;Atacante Reserva Marrocos;Atacante Reserva
+216;Marrocos;JOGADOR;Atacante Reserva Marrocos;Atacante Reserva
+217;Marrocos;TECNICO;Técnico Marrocos;Comissão técnica
+218;Marrocos;BRASAO;Escudo Marrocos;Brasão oficial da seleção
+219;Marrocos;BANDEIRA;Bandeira Marrocos;Bandeira nacional
+220;Marrocos;ESTADIO;Estádio Marrocos;Estádio relacionado à seleção
+221;Haiti;JOGADOR;Goleiro Haiti;Goleiro
+222;Haiti;JOGADOR;Lateral Direito Haiti;Lateral Direito
+223;Haiti;JOGADOR;Zagueiro Haiti;Zagueiro
+224;Haiti;JOGADOR;Zagueiro Haiti;Zagueiro
+225;Haiti;JOGADOR;Lateral Esquerdo Haiti;Lateral Esquerdo
+226;Haiti;JOGADOR;Volante Haiti;Volante
+227;Haiti;JOGADOR;Meia Haiti;Meia
+228;Haiti;JOGADOR;Meia Haiti;Meia
+229;Haiti;JOGADOR;Ponta Direita Haiti;Ponta Direita
+230;Haiti;JOGADOR;Atacante Haiti;Atacante
+231;Haiti;JOGADOR;Ponta Esquerda Haiti;Ponta Esquerda
+232;Haiti;JOGADOR;Goleiro Reserva Haiti;Goleiro Reserva
+233;Haiti;JOGADOR;Defensor Reserva Haiti;Defensor Reserva
+234;Haiti;JOGADOR;Defensor Reserva Haiti;Defensor Reserva
+235;Haiti;JOGADOR;Meio-campista Reserva Haiti;Meio-campista Reserva
+236;Haiti;JOGADOR;Meio-campista Reserva Haiti;Meio-campista Reserva
+237;Haiti;JOGADOR;Atacante Reserva Haiti;Atacante Reserva
+238;Haiti;JOGADOR;Atacante Reserva Haiti;Atacante Reserva
+239;Haiti;TECNICO;Técnico Haiti;Comissão técnica
+240;Haiti;BRASAO;Escudo Haiti;Brasão oficial da seleção
+241;Haiti;BANDEIRA;Bandeira Haiti;Bandeira nacional
+242;Haiti;ESTADIO;Estádio Haiti;Estádio relacionado à seleção
+243;Escócia;JOGADOR;Goleiro Escócia;Goleiro
+244;Escócia;JOGADOR;Lateral Direito Escócia;Lateral Direito
+245;Escócia;JOGADOR;Zagueiro Escócia;Zagueiro
+246;Escócia;JOGADOR;Zagueiro Escócia;Zagueiro
+247;Escócia;JOGADOR;Lateral Esquerdo Escócia;Lateral Esquerdo
+248;Escócia;JOGADOR;Volante Escócia;Volante
+249;Escócia;JOGADOR;Meia Escócia;Meia
+250;Escócia;JOGADOR;Meia Escócia;Meia
+251;Escócia;JOGADOR;Ponta Direita Escócia;Ponta Direita
+252;Escócia;JOGADOR;Atacante Escócia;Atacante
+253;Escócia;JOGADOR;Ponta Esquerda Escócia;Ponta Esquerda
+254;Escócia;JOGADOR;Goleiro Reserva Escócia;Goleiro Reserva
+255;Escócia;JOGADOR;Defensor Reserva Escócia;Defensor Reserva
+256;Escócia;JOGADOR;Defensor Reserva Escócia;Defensor Reserva
+257;Escócia;JOGADOR;Meio-campista Reserva Escócia;Meio-campista Reserva
+258;Escócia;JOGADOR;Meio-campista Reserva Escócia;Meio-campista Reserva
+259;Escócia;JOGADOR;Atacante Reserva Escócia;Atacante Reserva
+260;Escócia;JOGADOR;Atacante Reserva Escócia;Atacante Reserva
+261;Escócia;TECNICO;Técnico Escócia;Comissão técnica
+262;Escócia;BRASAO;Escudo Escócia;Brasão oficial da seleção
+263;Escócia;BANDEIRA;Bandeira Escócia;Bandeira nacional
+264;Escócia;ESTADIO;Estádio Escócia;Estádio relacionado à seleção
+265;Estados Unidos;JOGADOR;Goleiro Estados Unidos;Goleiro
+266;Estados Unidos;JOGADOR;Lateral Direito Estados Unidos;Lateral Direito
+267;Estados Unidos;JOGADOR;Zagueiro Estados Unidos;Zagueiro
+268;Estados Unidos;JOGADOR;Zagueiro Estados Unidos;Zagueiro
+269;Estados Unidos;JOGADOR;Lateral Esquerdo Estados Unidos;Lateral Esquerdo
+270;Estados Unidos;JOGADOR;Volante Estados Unidos;Volante
+271;Estados Unidos;JOGADOR;Meia Estados Unidos;Meia
+272;Estados Unidos;JOGADOR;Meia Estados Unidos;Meia
+273;Estados Unidos;JOGADOR;Ponta Direita Estados Unidos;Ponta Direita
+274;Estados Unidos;JOGADOR;Atacante Estados Unidos;Atacante
+275;Estados Unidos;JOGADOR;Ponta Esquerda Estados Unidos;Ponta Esquerda
+276;Estados Unidos;JOGADOR;Goleiro Reserva Estados Unidos;Goleiro Reserva
+277;Estados Unidos;JOGADOR;Defensor Reserva Estados Unidos;Defensor Reserva
+278;Estados Unidos;JOGADOR;Defensor Reserva Estados Unidos;Defensor Reserva
+279;Estados Unidos;JOGADOR;Meio-campista Reserva Estados Unidos;Meio-campista Reserva
+280;Estados Unidos;JOGADOR;Meio-campista Reserva Estados Unidos;Meio-campista Reserva
+281;Estados Unidos;JOGADOR;Atacante Reserva Estados Unidos;Atacante Reserva
+282;Estados Unidos;JOGADOR;Atacante Reserva Estados Unidos;Atacante Reserva
+283;Estados Unidos;TECNICO;Técnico Estados Unidos;Comissão técnica
+284;Estados Unidos;BRASAO;Escudo Estados Unidos;Brasão oficial da seleção
+285;Estados Unidos;BANDEIRA;Bandeira Estados Unidos;Bandeira nacional
+286;Estados Unidos;ESTADIO;Estádio Estados Unidos;Estádio relacionado à seleção
+287;Paraguai;JOGADOR;Goleiro Paraguai;Goleiro
+288;Paraguai;JOGADOR;Lateral Direito Paraguai;Lateral Direito
+289;Paraguai;JOGADOR;Zagueiro Paraguai;Zagueiro
+290;Paraguai;JOGADOR;Zagueiro Paraguai;Zagueiro
+291;Paraguai;JOGADOR;Lateral Esquerdo Paraguai;Lateral Esquerdo
+292;Paraguai;JOGADOR;Volante Paraguai;Volante
+293;Paraguai;JOGADOR;Meia Paraguai;Meia
+294;Paraguai;JOGADOR;Meia Paraguai;Meia
+295;Paraguai;JOGADOR;Ponta Direita Paraguai;Ponta Direita
+296;Paraguai;JOGADOR;Atacante Paraguai;Atacante
+297;Paraguai;JOGADOR;Ponta Esquerda Paraguai;Ponta Esquerda
+298;Paraguai;JOGADOR;Goleiro Reserva Paraguai;Goleiro Reserva
+299;Paraguai;JOGADOR;Defensor Reserva Paraguai;Defensor Reserva
+300;Paraguai;JOGADOR;Defensor Reserva Paraguai;Defensor Reserva
+301;Paraguai;JOGADOR;Meio-campista Reserva Paraguai;Meio-campista Reserva
+302;Paraguai;JOGADOR;Meio-campista Reserva Paraguai;Meio-campista Reserva
+303;Paraguai;JOGADOR;Atacante Reserva Paraguai;Atacante Reserva
+304;Paraguai;JOGADOR;Atacante Reserva Paraguai;Atacante Reserva
+305;Paraguai;TECNICO;Técnico Paraguai;Comissão técnica
+306;Paraguai;BRASAO;Escudo Paraguai;Brasão oficial da seleção
+307;Paraguai;BANDEIRA;Bandeira Paraguai;Bandeira nacional
+308;Paraguai;ESTADIO;Estádio Paraguai;Estádio relacionado à seleção
+309;Austrália;JOGADOR;Goleiro Austrália;Goleiro
+310;Austrália;JOGADOR;Lateral Direito Austrália;Lateral Direito
+311;Austrália;JOGADOR;Zagueiro Austrália;Zagueiro
+312;Austrália;JOGADOR;Zagueiro Austrália;Zagueiro
+313;Austrália;JOGADOR;Lateral Esquerdo Austrália;Lateral Esquerdo
+314;Austrália;JOGADOR;Volante Austrália;Volante
+315;Austrália;JOGADOR;Meia Austrália;Meia
+316;Austrália;JOGADOR;Meia Austrália;Meia
+317;Austrália;JOGADOR;Ponta Direita Austrália;Ponta Direita
+318;Austrália;JOGADOR;Atacante Austrália;Atacante
+319;Austrália;JOGADOR;Ponta Esquerda Austrália;Ponta Esquerda
+320;Austrália;JOGADOR;Goleiro Reserva Austrália;Goleiro Reserva
+321;Austrália;JOGADOR;Defensor Reserva Austrália;Defensor Reserva
+322;Austrália;JOGADOR;Defensor Reserva Austrália;Defensor Reserva
+323;Austrália;JOGADOR;Meio-campista Reserva Austrália;Meio-campista Reserva
+324;Austrália;JOGADOR;Meio-campista Reserva Austrália;Meio-campista Reserva
+325;Austrália;JOGADOR;Atacante Reserva Austrália;Atacante Reserva
+326;Austrália;JOGADOR;Atacante Reserva Austrália;Atacante Reserva
+327;Austrália;TECNICO;Técnico Austrália;Comissão técnica
+328;Austrália;BRASAO;Escudo Austrália;Brasão oficial da seleção
+329;Austrália;BANDEIRA;Bandeira Austrália;Bandeira nacional
+330;Austrália;ESTADIO;Estádio Austrália;Estádio relacionado à seleção
+331;Turquia;JOGADOR;Goleiro Turquia;Goleiro
+332;Turquia;JOGADOR;Lateral Direito Turquia;Lateral Direito
+333;Turquia;JOGADOR;Zagueiro Turquia;Zagueiro
+334;Turquia;JOGADOR;Zagueiro Turquia;Zagueiro
+335;Turquia;JOGADOR;Lateral Esquerdo Turquia;Lateral Esquerdo
+336;Turquia;JOGADOR;Volante Turquia;Volante
+337;Turquia;JOGADOR;Meia Turquia;Meia
+338;Turquia;JOGADOR;Meia Turquia;Meia
+339;Turquia;JOGADOR;Ponta Direita Turquia;Ponta Direita
+340;Turquia;JOGADOR;Atacante Turquia;Atacante
+341;Turquia;JOGADOR;Ponta Esquerda Turquia;Ponta Esquerda
+342;Turquia;JOGADOR;Goleiro Reserva Turquia;Goleiro Reserva
+343;Turquia;JOGADOR;Defensor Reserva Turquia;Defensor Reserva
+344;Turquia;JOGADOR;Defensor Reserva Turquia;Defensor Reserva
+345;Turquia;JOGADOR;Meio-campista Reserva Turquia;Meio-campista Reserva
+346;Turquia;JOGADOR;Meio-campista Reserva Turquia;Meio-campista Reserva
+347;Turquia;JOGADOR;Atacante Reserva Turquia;Atacante Reserva
+348;Turquia;JOGADOR;Atacante Reserva Turquia;Atacante Reserva
+349;Turquia;TECNICO;Técnico Turquia;Comissão técnica
+350;Turquia;BRASAO;Escudo Turquia;Brasão oficial da seleção
+351;Turquia;BANDEIRA;Bandeira Turquia;Bandeira nacional
+352;Turquia;ESTADIO;Estádio Turquia;Estádio relacionado à seleção
+353;Alemanha;JOGADOR;Goleiro Alemanha;Goleiro
+354;Alemanha;JOGADOR;Lateral Direito Alemanha;Lateral Direito
+355;Alemanha;JOGADOR;Zagueiro Alemanha;Zagueiro
+356;Alemanha;JOGADOR;Zagueiro Alemanha;Zagueiro
+357;Alemanha;JOGADOR;Lateral Esquerdo Alemanha;Lateral Esquerdo
+358;Alemanha;JOGADOR;Volante Alemanha;Volante
+359;Alemanha;JOGADOR;Meia Alemanha;Meia
+360;Alemanha;JOGADOR;Meia Alemanha;Meia
+361;Alemanha;JOGADOR;Ponta Direita Alemanha;Ponta Direita
+362;Alemanha;JOGADOR;Atacante Alemanha;Atacante
+363;Alemanha;JOGADOR;Ponta Esquerda Alemanha;Ponta Esquerda
+364;Alemanha;JOGADOR;Goleiro Reserva Alemanha;Goleiro Reserva
+365;Alemanha;JOGADOR;Defensor Reserva Alemanha;Defensor Reserva
+366;Alemanha;JOGADOR;Defensor Reserva Alemanha;Defensor Reserva
+367;Alemanha;JOGADOR;Meio-campista Reserva Alemanha;Meio-campista Reserva
+368;Alemanha;JOGADOR;Meio-campista Reserva Alemanha;Meio-campista Reserva
+369;Alemanha;JOGADOR;Atacante Reserva Alemanha;Atacante Reserva
+370;Alemanha;JOGADOR;Atacante Reserva Alemanha;Atacante Reserva
+371;Alemanha;TECNICO;Técnico Alemanha;Comissão técnica
+372;Alemanha;BRASAO;Escudo Alemanha;Brasão oficial da seleção
+373;Alemanha;BANDEIRA;Bandeira Alemanha;Bandeira nacional
+374;Alemanha;ESTADIO;Estádio Alemanha;Estádio relacionado à seleção
+375;Curaçao;JOGADOR;Goleiro Curaçao;Goleiro
+376;Curaçao;JOGADOR;Lateral Direito Curaçao;Lateral Direito
+377;Curaçao;JOGADOR;Zagueiro Curaçao;Zagueiro
+378;Curaçao;JOGADOR;Zagueiro Curaçao;Zagueiro
+379;Curaçao;JOGADOR;Lateral Esquerdo Curaçao;Lateral Esquerdo
+380;Curaçao;JOGADOR;Volante Curaçao;Volante
+381;Curaçao;JOGADOR;Meia Curaçao;Meia
+382;Curaçao;JOGADOR;Meia Curaçao;Meia
+383;Curaçao;JOGADOR;Ponta Direita Curaçao;Ponta Direita
+384;Curaçao;JOGADOR;Atacante Curaçao;Atacante
+385;Curaçao;JOGADOR;Ponta Esquerda Curaçao;Ponta Esquerda
+386;Curaçao;JOGADOR;Goleiro Reserva Curaçao;Goleiro Reserva
+387;Curaçao;JOGADOR;Defensor Reserva Curaçao;Defensor Reserva
+388;Curaçao;JOGADOR;Defensor Reserva Curaçao;Defensor Reserva
+389;Curaçao;JOGADOR;Meio-campista Reserva Curaçao;Meio-campista Reserva
+390;Curaçao;JOGADOR;Meio-campista Reserva Curaçao;Meio-campista Reserva
+391;Curaçao;JOGADOR;Atacante Reserva Curaçao;Atacante Reserva
+392;Curaçao;JOGADOR;Atacante Reserva Curaçao;Atacante Reserva
+393;Curaçao;TECNICO;Técnico Curaçao;Comissão técnica
+394;Curaçao;BRASAO;Escudo Curaçao;Brasão oficial da seleção
+395;Curaçao;BANDEIRA;Bandeira Curaçao;Bandeira nacional
+396;Curaçao;ESTADIO;Estádio Curaçao;Estádio relacionado à seleção
+397;Costa do Marfim;JOGADOR;Goleiro Costa do Marfim;Goleiro
+398;Costa do Marfim;JOGADOR;Lateral Direito Costa do Marfim;Lateral Direito
+399;Costa do Marfim;JOGADOR;Zagueiro Costa do Marfim;Zagueiro
+400;Costa do Marfim;JOGADOR;Zagueiro Costa do Marfim;Zagueiro
+401;Costa do Marfim;JOGADOR;Lateral Esquerdo Costa do Marfim;Lateral Esquerdo
+402;Costa do Marfim;JOGADOR;Volante Costa do Marfim;Volante
+403;Costa do Marfim;JOGADOR;Meia Costa do Marfim;Meia
+404;Costa do Marfim;JOGADOR;Meia Costa do Marfim;Meia
+405;Costa do Marfim;JOGADOR;Ponta Direita Costa do Marfim;Ponta Direita
+406;Costa do Marfim;JOGADOR;Atacante Costa do Marfim;Atacante
+407;Costa do Marfim;JOGADOR;Ponta Esquerda Costa do Marfim;Ponta Esquerda
+408;Costa do Marfim;JOGADOR;Goleiro Reserva Costa do Marfim;Goleiro Reserva
+409;Costa do Marfim;JOGADOR;Defensor Reserva Costa do Marfim;Defensor Reserva
+410;Costa do Marfim;JOGADOR;Defensor Reserva Costa do Marfim;Defensor Reserva
+411;Costa do Marfim;JOGADOR;Meio-campista Reserva Costa do Marfim;Meio-campista Reserva
+412;Costa do Marfim;JOGADOR;Meio-campista Reserva Costa do Marfim;Meio-campista Reserva
+413;Costa do Marfim;JOGADOR;Atacante Reserva Costa do Marfim;Atacante Reserva
+414;Costa do Marfim;JOGADOR;Atacante Reserva Costa do Marfim;Atacante Reserva
+415;Costa do Marfim;TECNICO;Técnico Costa do Marfim;Comissão técnica
+416;Costa do Marfim;BRASAO;Escudo Costa do Marfim;Brasão oficial da seleção
+417;Costa do Marfim;BANDEIRA;Bandeira Costa do Marfim;Bandeira nacional
+418;Costa do Marfim;ESTADIO;Estádio Costa do Marfim;Estádio relacionado à seleção
+419;Equador;JOGADOR;Goleiro Equador;Goleiro
+420;Equador;JOGADOR;Lateral Direito Equador;Lateral Direito
+421;Equador;JOGADOR;Zagueiro Equador;Zagueiro
+422;Equador;JOGADOR;Zagueiro Equador;Zagueiro
+423;Equador;JOGADOR;Lateral Esquerdo Equador;Lateral Esquerdo
+424;Equador;JOGADOR;Volante Equador;Volante
+425;Equador;JOGADOR;Meia Equador;Meia
+426;Equador;JOGADOR;Meia Equador;Meia
+427;Equador;JOGADOR;Ponta Direita Equador;Ponta Direita
+428;Equador;JOGADOR;Atacante Equador;Atacante
+429;Equador;JOGADOR;Ponta Esquerda Equador;Ponta Esquerda
+430;Equador;JOGADOR;Goleiro Reserva Equador;Goleiro Reserva
+431;Equador;JOGADOR;Defensor Reserva Equador;Defensor Reserva
+432;Equador;JOGADOR;Defensor Reserva Equador;Defensor Reserva
+433;Equador;JOGADOR;Meio-campista Reserva Equador;Meio-campista Reserva
+434;Equador;JOGADOR;Meio-campista Reserva Equador;Meio-campista Reserva
+435;Equador;JOGADOR;Atacante Reserva Equador;Atacante Reserva
+436;Equador;JOGADOR;Atacante Reserva Equador;Atacante Reserva
+437;Equador;TECNICO;Técnico Equador;Comissão técnica
+438;Equador;BRASAO;Escudo Equador;Brasão oficial da seleção
+439;Equador;BANDEIRA;Bandeira Equador;Bandeira nacional
+440;Equador;ESTADIO;Estádio Equador;Estádio relacionado à seleção
+441;Holanda;JOGADOR;Goleiro Holanda;Goleiro
+442;Holanda;JOGADOR;Lateral Direito Holanda;Lateral Direito
+443;Holanda;JOGADOR;Zagueiro Holanda;Zagueiro
+444;Holanda;JOGADOR;Zagueiro Holanda;Zagueiro
+445;Holanda;JOGADOR;Lateral Esquerdo Holanda;Lateral Esquerdo
+446;Holanda;JOGADOR;Volante Holanda;Volante
+447;Holanda;JOGADOR;Meia Holanda;Meia
+448;Holanda;JOGADOR;Meia Holanda;Meia
+449;Holanda;JOGADOR;Ponta Direita Holanda;Ponta Direita
+450;Holanda;JOGADOR;Atacante Holanda;Atacante
+451;Holanda;JOGADOR;Ponta Esquerda Holanda;Ponta Esquerda
+452;Holanda;JOGADOR;Goleiro Reserva Holanda;Goleiro Reserva
+453;Holanda;JOGADOR;Defensor Reserva Holanda;Defensor Reserva
+454;Holanda;JOGADOR;Defensor Reserva Holanda;Defensor Reserva
+455;Holanda;JOGADOR;Meio-campista Reserva Holanda;Meio-campista Reserva
+456;Holanda;JOGADOR;Meio-campista Reserva Holanda;Meio-campista Reserva
+457;Holanda;JOGADOR;Atacante Reserva Holanda;Atacante Reserva
+458;Holanda;JOGADOR;Atacante Reserva Holanda;Atacante Reserva
+459;Holanda;TECNICO;Técnico Holanda;Comissão técnica
+460;Holanda;BRASAO;Escudo Holanda;Brasão oficial da seleção
+461;Holanda;BANDEIRA;Bandeira Holanda;Bandeira nacional
+462;Holanda;ESTADIO;Estádio Holanda;Estádio relacionado à seleção
+463;Japão;JOGADOR;Goleiro Japão;Goleiro
+464;Japão;JOGADOR;Lateral Direito Japão;Lateral Direito
+465;Japão;JOGADOR;Zagueiro Japão;Zagueiro
+466;Japão;JOGADOR;Zagueiro Japão;Zagueiro
+467;Japão;JOGADOR;Lateral Esquerdo Japão;Lateral Esquerdo
+468;Japão;JOGADOR;Volante Japão;Volante
+469;Japão;JOGADOR;Meia Japão;Meia
+470;Japão;JOGADOR;Meia Japão;Meia
+471;Japão;JOGADOR;Ponta Direita Japão;Ponta Direita
+472;Japão;JOGADOR;Atacante Japão;Atacante
+473;Japão;JOGADOR;Ponta Esquerda Japão;Ponta Esquerda
+474;Japão;JOGADOR;Goleiro Reserva Japão;Goleiro Reserva
+475;Japão;JOGADOR;Defensor Reserva Japão;Defensor Reserva
+476;Japão;JOGADOR;Defensor Reserva Japão;Defensor Reserva
+477;Japão;JOGADOR;Meio-campista Reserva Japão;Meio-campista Reserva
+478;Japão;JOGADOR;Meio-campista Reserva Japão;Meio-campista Reserva
+479;Japão;JOGADOR;Atacante Reserva Japão;Atacante Reserva
+480;Japão;JOGADOR;Atacante Reserva Japão;Atacante Reserva
+481;Japão;TECNICO;Técnico Japão;Comissão técnica
+482;Japão;BRASAO;Escudo Japão;Brasão oficial da seleção
+483;Japão;BANDEIRA;Bandeira Japão;Bandeira nacional
+484;Japão;ESTADIO;Estádio Japão;Estádio relacionado à seleção
+485;Suécia;JOGADOR;Goleiro Suécia;Goleiro
+486;Suécia;JOGADOR;Lateral Direito Suécia;Lateral Direito
+487;Suécia;JOGADOR;Zagueiro Suécia;Zagueiro
+488;Suécia;JOGADOR;Zagueiro Suécia;Zagueiro
+489;Suécia;JOGADOR;Lateral Esquerdo Suécia;Lateral Esquerdo
+490;Suécia;JOGADOR;Volante Suécia;Volante
+491;Suécia;JOGADOR;Meia Suécia;Meia
+492;Suécia;JOGADOR;Meia Suécia;Meia
+493;Suécia;JOGADOR;Ponta Direita Suécia;Ponta Direita
+494;Suécia;JOGADOR;Atacante Suécia;Atacante
+495;Suécia;JOGADOR;Ponta Esquerda Suécia;Ponta Esquerda
+496;Suécia;JOGADOR;Goleiro Reserva Suécia;Goleiro Reserva
+497;Suécia;JOGADOR;Defensor Reserva Suécia;Defensor Reserva
+498;Suécia;JOGADOR;Defensor Reserva Suécia;Defensor Reserva
+499;Suécia;JOGADOR;Meio-campista Reserva Suécia;Meio-campista Reserva
+500;Suécia;JOGADOR;Meio-campista Reserva Suécia;Meio-campista Reserva
+501;Suécia;JOGADOR;Atacante Reserva Suécia;Atacante Reserva
+502;Suécia;JOGADOR;Atacante Reserva Suécia;Atacante Reserva
+503;Suécia;TECNICO;Técnico Suécia;Comissão técnica
+504;Suécia;BRASAO;Escudo Suécia;Brasão oficial da seleção
+505;Suécia;BANDEIRA;Bandeira Suécia;Bandeira nacional
+506;Suécia;ESTADIO;Estádio Suécia;Estádio relacionado à seleção
+507;Tunísia;JOGADOR;Goleiro Tunísia;Goleiro
+508;Tunísia;JOGADOR;Lateral Direito Tunísia;Lateral Direito
+509;Tunísia;JOGADOR;Zagueiro Tunísia;Zagueiro
+510;Tunísia;JOGADOR;Zagueiro Tunísia;Zagueiro
+511;Tunísia;JOGADOR;Lateral Esquerdo Tunísia;Lateral Esquerdo
+512;Tunísia;JOGADOR;Volante Tunísia;Volante
+513;Tunísia;JOGADOR;Meia Tunísia;Meia
+514;Tunísia;JOGADOR;Meia Tunísia;Meia
+515;Tunísia;JOGADOR;Ponta Direita Tunísia;Ponta Direita
+516;Tunísia;JOGADOR;Atacante Tunísia;Atacante
+517;Tunísia;JOGADOR;Ponta Esquerda Tunísia;Ponta Esquerda
+518;Tunísia;JOGADOR;Goleiro Reserva Tunísia;Goleiro Reserva
+519;Tunísia;JOGADOR;Defensor Reserva Tunísia;Defensor Reserva
+520;Tunísia;JOGADOR;Defensor Reserva Tunísia;Defensor Reserva
+521;Tunísia;JOGADOR;Meio-campista Reserva Tunísia;Meio-campista Reserva
+522;Tunísia;JOGADOR;Meio-campista Reserva Tunísia;Meio-campista Reserva
+523;Tunísia;JOGADOR;Atacante Reserva Tunísia;Atacante Reserva
+524;Tunísia;JOGADOR;Atacante Reserva Tunísia;Atacante Reserva
+525;Tunísia;TECNICO;Técnico Tunísia;Comissão técnica
+526;Tunísia;BRASAO;Escudo Tunísia;Brasão oficial da seleção
+527;Tunísia;BANDEIRA;Bandeira Tunísia;Bandeira nacional
+528;Tunísia;ESTADIO;Estádio Tunísia;Estádio relacionado à seleção
+529;Bélgica;JOGADOR;Goleiro Bélgica;Goleiro
+530;Bélgica;JOGADOR;Lateral Direito Bélgica;Lateral Direito
+531;Bélgica;JOGADOR;Zagueiro Bélgica;Zagueiro
+532;Bélgica;JOGADOR;Zagueiro Bélgica;Zagueiro
+533;Bélgica;JOGADOR;Lateral Esquerdo Bélgica;Lateral Esquerdo
+534;Bélgica;JOGADOR;Volante Bélgica;Volante
+535;Bélgica;JOGADOR;Meia Bélgica;Meia
+536;Bélgica;JOGADOR;Meia Bélgica;Meia
+537;Bélgica;JOGADOR;Ponta Direita Bélgica;Ponta Direita
+538;Bélgica;JOGADOR;Atacante Bélgica;Atacante
+539;Bélgica;JOGADOR;Ponta Esquerda Bélgica;Ponta Esquerda
+540;Bélgica;JOGADOR;Goleiro Reserva Bélgica;Goleiro Reserva
+541;Bélgica;JOGADOR;Defensor Reserva Bélgica;Defensor Reserva
+542;Bélgica;JOGADOR;Defensor Reserva Bélgica;Defensor Reserva
+543;Bélgica;JOGADOR;Meio-campista Reserva Bélgica;Meio-campista Reserva
+544;Bélgica;JOGADOR;Meio-campista Reserva Bélgica;Meio-campista Reserva
+545;Bélgica;JOGADOR;Atacante Reserva Bélgica;Atacante Reserva
+546;Bélgica;JOGADOR;Atacante Reserva Bélgica;Atacante Reserva
+547;Bélgica;TECNICO;Técnico Bélgica;Comissão técnica
+548;Bélgica;BRASAO;Escudo Bélgica;Brasão oficial da seleção
+549;Bélgica;BANDEIRA;Bandeira Bélgica;Bandeira nacional
+550;Bélgica;ESTADIO;Estádio Bélgica;Estádio relacionado à seleção
+551;Egito;JOGADOR;Goleiro Egito;Goleiro
+552;Egito;JOGADOR;Lateral Direito Egito;Lateral Direito
+553;Egito;JOGADOR;Zagueiro Egito;Zagueiro
+554;Egito;JOGADOR;Zagueiro Egito;Zagueiro
+555;Egito;JOGADOR;Lateral Esquerdo Egito;Lateral Esquerdo
+556;Egito;JOGADOR;Volante Egito;Volante
+557;Egito;JOGADOR;Meia Egito;Meia
+558;Egito;JOGADOR;Meia Egito;Meia
+559;Egito;JOGADOR;Ponta Direita Egito;Ponta Direita
+560;Egito;JOGADOR;Atacante Egito;Atacante
+561;Egito;JOGADOR;Ponta Esquerda Egito;Ponta Esquerda
+562;Egito;JOGADOR;Goleiro Reserva Egito;Goleiro Reserva
+563;Egito;JOGADOR;Defensor Reserva Egito;Defensor Reserva
+564;Egito;JOGADOR;Defensor Reserva Egito;Defensor Reserva
+565;Egito;JOGADOR;Meio-campista Reserva Egito;Meio-campista Reserva
+566;Egito;JOGADOR;Meio-campista Reserva Egito;Meio-campista Reserva
+567;Egito;JOGADOR;Atacante Reserva Egito;Atacante Reserva
+568;Egito;JOGADOR;Atacante Reserva Egito;Atacante Reserva
+569;Egito;TECNICO;Técnico Egito;Comissão técnica
+570;Egito;BRASAO;Escudo Egito;Brasão oficial da seleção
+571;Egito;BANDEIRA;Bandeira Egito;Bandeira nacional
+572;Egito;ESTADIO;Estádio Egito;Estádio relacionado à seleção
+573;Irã;JOGADOR;Goleiro Irã;Goleiro
+574;Irã;JOGADOR;Lateral Direito Irã;Lateral Direito
+575;Irã;JOGADOR;Zagueiro Irã;Zagueiro
+576;Irã;JOGADOR;Zagueiro Irã;Zagueiro
+577;Irã;JOGADOR;Lateral Esquerdo Irã;Lateral Esquerdo
+578;Irã;JOGADOR;Volante Irã;Volante
+579;Irã;JOGADOR;Meia Irã;Meia
+580;Irã;JOGADOR;Meia Irã;Meia
+581;Irã;JOGADOR;Ponta Direita Irã;Ponta Direita
+582;Irã;JOGADOR;Atacante Irã;Atacante
+583;Irã;JOGADOR;Ponta Esquerda Irã;Ponta Esquerda
+584;Irã;JOGADOR;Goleiro Reserva Irã;Goleiro Reserva
+585;Irã;JOGADOR;Defensor Reserva Irã;Defensor Reserva
+586;Irã;JOGADOR;Defensor Reserva Irã;Defensor Reserva
+587;Irã;JOGADOR;Meio-campista Reserva Irã;Meio-campista Reserva
+588;Irã;JOGADOR;Meio-campista Reserva Irã;Meio-campista Reserva
+589;Irã;JOGADOR;Atacante Reserva Irã;Atacante Reserva
+590;Irã;JOGADOR;Atacante Reserva Irã;Atacante Reserva
+591;Irã;TECNICO;Técnico Irã;Comissão técnica
+592;Irã;BRASAO;Escudo Irã;Brasão oficial da seleção
+593;Irã;BANDEIRA;Bandeira Irã;Bandeira nacional
+594;Irã;ESTADIO;Estádio Irã;Estádio relacionado à seleção
+595;Nova Zelândia;JOGADOR;Goleiro Nova Zelândia;Goleiro
+596;Nova Zelândia;JOGADOR;Lateral Direito Nova Zelândia;Lateral Direito
+597;Nova Zelândia;JOGADOR;Zagueiro Nova Zelândia;Zagueiro
+598;Nova Zelândia;JOGADOR;Zagueiro Nova Zelândia;Zagueiro
+599;Nova Zelândia;JOGADOR;Lateral Esquerdo Nova Zelândia;Lateral Esquerdo
+600;Nova Zelândia;JOGADOR;Volante Nova Zelândia;Volante
+601;Nova Zelândia;JOGADOR;Meia Nova Zelândia;Meia
+602;Nova Zelândia;JOGADOR;Meia Nova Zelândia;Meia
+603;Nova Zelândia;JOGADOR;Ponta Direita Nova Zelândia;Ponta Direita
+604;Nova Zelândia;JOGADOR;Atacante Nova Zelândia;Atacante
+605;Nova Zelândia;JOGADOR;Ponta Esquerda Nova Zelândia;Ponta Esquerda
+606;Nova Zelândia;JOGADOR;Goleiro Reserva Nova Zelândia;Goleiro Reserva
+607;Nova Zelândia;JOGADOR;Defensor Reserva Nova Zelândia;Defensor Reserva
+608;Nova Zelândia;JOGADOR;Defensor Reserva Nova Zelândia;Defensor Reserva
+609;Nova Zelândia;JOGADOR;Meio-campista Reserva Nova Zelândia;Meio-campista Reserva
+610;Nova Zelândia;JOGADOR;Meio-campista Reserva Nova Zelândia;Meio-campista Reserva
+611;Nova Zelândia;JOGADOR;Atacante Reserva Nova Zelândia;Atacante Reserva
+612;Nova Zelândia;JOGADOR;Atacante Reserva Nova Zelândia;Atacante Reserva
+613;Nova Zelândia;TECNICO;Técnico Nova Zelândia;Comissão técnica
+614;Nova Zelândia;BRASAO;Escudo Nova Zelândia;Brasão oficial da seleção
+615;Nova Zelândia;BANDEIRA;Bandeira Nova Zelândia;Bandeira nacional
+616;Nova Zelândia;ESTADIO;Estádio Nova Zelândia;Estádio relacionado à seleção
+617;Espanha;JOGADOR;Goleiro Espanha;Goleiro
+618;Espanha;JOGADOR;Lateral Direito Espanha;Lateral Direito
+619;Espanha;JOGADOR;Zagueiro Espanha;Zagueiro
+620;Espanha;JOGADOR;Zagueiro Espanha;Zagueiro
+621;Espanha;JOGADOR;Lateral Esquerdo Espanha;Lateral Esquerdo
+622;Espanha;JOGADOR;Volante Espanha;Volante
+623;Espanha;JOGADOR;Meia Espanha;Meia
+624;Espanha;JOGADOR;Meia Espanha;Meia
+625;Espanha;JOGADOR;Ponta Direita Espanha;Ponta Direita
+626;Espanha;JOGADOR;Atacante Espanha;Atacante
+627;Espanha;JOGADOR;Ponta Esquerda Espanha;Ponta Esquerda
+628;Espanha;JOGADOR;Goleiro Reserva Espanha;Goleiro Reserva
+629;Espanha;JOGADOR;Defensor Reserva Espanha;Defensor Reserva
+630;Espanha;JOGADOR;Defensor Reserva Espanha;Defensor Reserva
+631;Espanha;JOGADOR;Meio-campista Reserva Espanha;Meio-campista Reserva
+632;Espanha;JOGADOR;Meio-campista Reserva Espanha;Meio-campista Reserva
+633;Espanha;JOGADOR;Atacante Reserva Espanha;Atacante Reserva
+634;Espanha;JOGADOR;Atacante Reserva Espanha;Atacante Reserva
+635;Espanha;TECNICO;Técnico Espanha;Comissão técnica
+636;Espanha;BRASAO;Escudo Espanha;Brasão oficial da seleção
+637;Espanha;BANDEIRA;Bandeira Espanha;Bandeira nacional
+638;Espanha;ESTADIO;Estádio Espanha;Estádio relacionado à seleção
+639;Cabo Verde;JOGADOR;Goleiro Cabo Verde;Goleiro
+640;Cabo Verde;JOGADOR;Lateral Direito Cabo Verde;Lateral Direito
+641;Cabo Verde;JOGADOR;Zagueiro Cabo Verde;Zagueiro
+642;Cabo Verde;JOGADOR;Zagueiro Cabo Verde;Zagueiro
+643;Cabo Verde;JOGADOR;Lateral Esquerdo Cabo Verde;Lateral Esquerdo
+644;Cabo Verde;JOGADOR;Volante Cabo Verde;Volante
+645;Cabo Verde;JOGADOR;Meia Cabo Verde;Meia
+646;Cabo Verde;JOGADOR;Meia Cabo Verde;Meia
+647;Cabo Verde;JOGADOR;Ponta Direita Cabo Verde;Ponta Direita
+648;Cabo Verde;JOGADOR;Atacante Cabo Verde;Atacante
+649;Cabo Verde;JOGADOR;Ponta Esquerda Cabo Verde;Ponta Esquerda
+650;Cabo Verde;JOGADOR;Goleiro Reserva Cabo Verde;Goleiro Reserva
+651;Cabo Verde;JOGADOR;Defensor Reserva Cabo Verde;Defensor Reserva
+652;Cabo Verde;JOGADOR;Defensor Reserva Cabo Verde;Defensor Reserva
+653;Cabo Verde;JOGADOR;Meio-campista Reserva Cabo Verde;Meio-campista Reserva
+654;Cabo Verde;JOGADOR;Meio-campista Reserva Cabo Verde;Meio-campista Reserva
+655;Cabo Verde;JOGADOR;Atacante Reserva Cabo Verde;Atacante Reserva
+656;Cabo Verde;JOGADOR;Atacante Reserva Cabo Verde;Atacante Reserva
+657;Cabo Verde;TECNICO;Técnico Cabo Verde;Comissão técnica
+658;Cabo Verde;BRASAO;Escudo Cabo Verde;Brasão oficial da seleção
+659;Cabo Verde;BANDEIRA;Bandeira Cabo Verde;Bandeira nacional
+660;Cabo Verde;ESTADIO;Estádio Cabo Verde;Estádio relacionado à seleção
+661;Arábia Saudita;JOGADOR;Goleiro Arábia Saudita;Goleiro
+662;Arábia Saudita;JOGADOR;Lateral Direito Arábia Saudita;Lateral Direito
+663;Arábia Saudita;JOGADOR;Zagueiro Arábia Saudita;Zagueiro
+664;Arábia Saudita;JOGADOR;Zagueiro Arábia Saudita;Zagueiro
+665;Arábia Saudita;JOGADOR;Lateral Esquerdo Arábia Saudita;Lateral Esquerdo
+666;Arábia Saudita;JOGADOR;Volante Arábia Saudita;Volante
+667;Arábia Saudita;JOGADOR;Meia Arábia Saudita;Meia
+668;Arábia Saudita;JOGADOR;Meia Arábia Saudita;Meia
+669;Arábia Saudita;JOGADOR;Ponta Direita Arábia Saudita;Ponta Direita
+670;Arábia Saudita;JOGADOR;Atacante Arábia Saudita;Atacante
+671;Arábia Saudita;JOGADOR;Ponta Esquerda Arábia Saudita;Ponta Esquerda
+672;Arábia Saudita;JOGADOR;Goleiro Reserva Arábia Saudita;Goleiro Reserva
+673;Arábia Saudita;JOGADOR;Defensor Reserva Arábia Saudita;Defensor Reserva
+674;Arábia Saudita;JOGADOR;Defensor Reserva Arábia Saudita;Defensor Reserva
+675;Arábia Saudita;JOGADOR;Meio-campista Reserva Arábia Saudita;Meio-campista Reserva
+676;Arábia Saudita;JOGADOR;Meio-campista Reserva Arábia Saudita;Meio-campista Reserva
+677;Arábia Saudita;JOGADOR;Atacante Reserva Arábia Saudita;Atacante Reserva
+678;Arábia Saudita;JOGADOR;Atacante Reserva Arábia Saudita;Atacante Reserva
+679;Arábia Saudita;TECNICO;Técnico Arábia Saudita;Comissão técnica
+680;Arábia Saudita;BRASAO;Escudo Arábia Saudita;Brasão oficial da seleção
+681;Arábia Saudita;BANDEIRA;Bandeira Arábia Saudita;Bandeira nacional
+682;Arábia Saudita;ESTADIO;Estádio Arábia Saudita;Estádio relacionado à seleção
+683;Uruguai;JOGADOR;Goleiro Uruguai;Goleiro
+684;Uruguai;JOGADOR;Lateral Direito Uruguai;Lateral Direito
+685;Uruguai;JOGADOR;Zagueiro Uruguai;Zagueiro
+686;Uruguai;JOGADOR;Zagueiro Uruguai;Zagueiro
+687;Uruguai;JOGADOR;Lateral Esquerdo Uruguai;Lateral Esquerdo
+688;Uruguai;JOGADOR;Volante Uruguai;Volante
+689;Uruguai;JOGADOR;Meia Uruguai;Meia
+690;Uruguai;JOGADOR;Meia Uruguai;Meia
+691;Uruguai;JOGADOR;Ponta Direita Uruguai;Ponta Direita
+692;Uruguai;JOGADOR;Atacante Uruguai;Atacante
+693;Uruguai;JOGADOR;Ponta Esquerda Uruguai;Ponta Esquerda
+694;Uruguai;JOGADOR;Goleiro Reserva Uruguai;Goleiro Reserva
+695;Uruguai;JOGADOR;Defensor Reserva Uruguai;Defensor Reserva
+696;Uruguai;JOGADOR;Defensor Reserva Uruguai;Defensor Reserva
+697;Uruguai;JOGADOR;Meio-campista Reserva Uruguai;Meio-campista Reserva
+698;Uruguai;JOGADOR;Meio-campista Reserva Uruguai;Meio-campista Reserva
+699;Uruguai;JOGADOR;Atacante Reserva Uruguai;Atacante Reserva
+700;Uruguai;JOGADOR;Atacante Reserva Uruguai;Atacante Reserva
+701;Uruguai;TECNICO;Técnico Uruguai;Comissão técnica
+702;Uruguai;BRASAO;Escudo Uruguai;Brasão oficial da seleção
+703;Uruguai;BANDEIRA;Bandeira Uruguai;Bandeira nacional
+704;Uruguai;ESTADIO;Estádio Uruguai;Estádio relacionado à seleção
+705;França;JOGADOR;Goleiro França;Goleiro
+706;França;JOGADOR;Lateral Direito França;Lateral Direito
+707;França;JOGADOR;Zagueiro França;Zagueiro
+708;França;JOGADOR;Zagueiro França;Zagueiro
+709;França;JOGADOR;Lateral Esquerdo França;Lateral Esquerdo
+710;França;JOGADOR;Volante França;Volante
+711;França;JOGADOR;Meia França;Meia
+712;França;JOGADOR;Meia França;Meia
+713;França;JOGADOR;Ponta Direita França;Ponta Direita
+714;França;JOGADOR;Atacante França;Atacante
+715;França;JOGADOR;Ponta Esquerda França;Ponta Esquerda
+716;França;JOGADOR;Goleiro Reserva França;Goleiro Reserva
+717;França;JOGADOR;Defensor Reserva França;Defensor Reserva
+718;França;JOGADOR;Defensor Reserva França;Defensor Reserva
+719;França;JOGADOR;Meio-campista Reserva França;Meio-campista Reserva
+720;França;JOGADOR;Meio-campista Reserva França;Meio-campista Reserva
+721;França;JOGADOR;Atacante Reserva França;Atacante Reserva
+722;França;JOGADOR;Atacante Reserva França;Atacante Reserva
+723;França;TECNICO;Técnico França;Comissão técnica
+724;França;BRASAO;Escudo França;Brasão oficial da seleção
+725;França;BANDEIRA;Bandeira França;Bandeira nacional
+726;França;ESTADIO;Estádio França;Estádio relacionado à seleção
+727;Senegal;JOGADOR;Goleiro Senegal;Goleiro
+728;Senegal;JOGADOR;Lateral Direito Senegal;Lateral Direito
+729;Senegal;JOGADOR;Zagueiro Senegal;Zagueiro
+730;Senegal;JOGADOR;Zagueiro Senegal;Zagueiro
+731;Senegal;JOGADOR;Lateral Esquerdo Senegal;Lateral Esquerdo
+732;Senegal;JOGADOR;Volante Senegal;Volante
+733;Senegal;JOGADOR;Meia Senegal;Meia
+734;Senegal;JOGADOR;Meia Senegal;Meia
+735;Senegal;JOGADOR;Ponta Direita Senegal;Ponta Direita
+736;Senegal;JOGADOR;Atacante Senegal;Atacante
+737;Senegal;JOGADOR;Ponta Esquerda Senegal;Ponta Esquerda
+738;Senegal;JOGADOR;Goleiro Reserva Senegal;Goleiro Reserva
+739;Senegal;JOGADOR;Defensor Reserva Senegal;Defensor Reserva
+740;Senegal;JOGADOR;Defensor Reserva Senegal;Defensor Reserva
+741;Senegal;JOGADOR;Meio-campista Reserva Senegal;Meio-campista Reserva
+742;Senegal;JOGADOR;Meio-campista Reserva Senegal;Meio-campista Reserva
+743;Senegal;JOGADOR;Atacante Reserva Senegal;Atacante Reserva
+744;Senegal;JOGADOR;Atacante Reserva Senegal;Atacante Reserva
+745;Senegal;TECNICO;Técnico Senegal;Comissão técnica
+746;Senegal;BRASAO;Escudo Senegal;Brasão oficial da seleção
+747;Senegal;BANDEIRA;Bandeira Senegal;Bandeira nacional
+748;Senegal;ESTADIO;Estádio Senegal;Estádio relacionado à seleção
+749;Iraque;JOGADOR;Goleiro Iraque;Goleiro
+750;Iraque;JOGADOR;Lateral Direito Iraque;Lateral Direito
+751;Iraque;JOGADOR;Zagueiro Iraque;Zagueiro
+752;Iraque;JOGADOR;Zagueiro Iraque;Zagueiro
+753;Iraque;JOGADOR;Lateral Esquerdo Iraque;Lateral Esquerdo
+754;Iraque;JOGADOR;Volante Iraque;Volante
+755;Iraque;JOGADOR;Meia Iraque;Meia
+756;Iraque;JOGADOR;Meia Iraque;Meia
+757;Iraque;JOGADOR;Ponta Direita Iraque;Ponta Direita
+758;Iraque;JOGADOR;Atacante Iraque;Atacante
+759;Iraque;JOGADOR;Ponta Esquerda Iraque;Ponta Esquerda
+760;Iraque;JOGADOR;Goleiro Reserva Iraque;Goleiro Reserva
+761;Iraque;JOGADOR;Defensor Reserva Iraque;Defensor Reserva
+762;Iraque;JOGADOR;Defensor Reserva Iraque;Defensor Reserva
+763;Iraque;JOGADOR;Meio-campista Reserva Iraque;Meio-campista Reserva
+764;Iraque;JOGADOR;Meio-campista Reserva Iraque;Meio-campista Reserva
+765;Iraque;JOGADOR;Atacante Reserva Iraque;Atacante Reserva
+766;Iraque;JOGADOR;Atacante Reserva Iraque;Atacante Reserva
+767;Iraque;TECNICO;Técnico Iraque;Comissão técnica
+768;Iraque;BRASAO;Escudo Iraque;Brasão oficial da seleção
+769;Iraque;BANDEIRA;Bandeira Iraque;Bandeira nacional
+770;Iraque;ESTADIO;Estádio Iraque;Estádio relacionado à seleção
+771;Noruega;JOGADOR;Goleiro Noruega;Goleiro
+772;Noruega;JOGADOR;Lateral Direito Noruega;Lateral Direito
+773;Noruega;JOGADOR;Zagueiro Noruega;Zagueiro
+774;Noruega;JOGADOR;Zagueiro Noruega;Zagueiro
+775;Noruega;JOGADOR;Lateral Esquerdo Noruega;Lateral Esquerdo
+776;Noruega;JOGADOR;Volante Noruega;Volante
+777;Noruega;JOGADOR;Meia Noruega;Meia
+778;Noruega;JOGADOR;Meia Noruega;Meia
+779;Noruega;JOGADOR;Ponta Direita Noruega;Ponta Direita
+780;Noruega;JOGADOR;Atacante Noruega;Atacante
+781;Noruega;JOGADOR;Ponta Esquerda Noruega;Ponta Esquerda
+782;Noruega;JOGADOR;Goleiro Reserva Noruega;Goleiro Reserva
+783;Noruega;JOGADOR;Defensor Reserva Noruega;Defensor Reserva
+784;Noruega;JOGADOR;Defensor Reserva Noruega;Defensor Reserva
+785;Noruega;JOGADOR;Meio-campista Reserva Noruega;Meio-campista Reserva
+786;Noruega;JOGADOR;Meio-campista Reserva Noruega;Meio-campista Reserva
+787;Noruega;JOGADOR;Atacante Reserva Noruega;Atacante Reserva
+788;Noruega;JOGADOR;Atacante Reserva Noruega;Atacante Reserva
+789;Noruega;TECNICO;Técnico Noruega;Comissão técnica
+790;Noruega;BRASAO;Escudo Noruega;Brasão oficial da seleção
+791;Noruega;BANDEIRA;Bandeira Noruega;Bandeira nacional
+792;Noruega;ESTADIO;Estádio Noruega;Estádio relacionado à seleção
+793;Argentina;JOGADOR;Goleiro Argentina;Goleiro
+794;Argentina;JOGADOR;Lateral Direito Argentina;Lateral Direito
+795;Argentina;JOGADOR;Zagueiro Argentina;Zagueiro
+796;Argentina;JOGADOR;Zagueiro Argentina;Zagueiro
+797;Argentina;JOGADOR;Lateral Esquerdo Argentina;Lateral Esquerdo
+798;Argentina;JOGADOR;Volante Argentina;Volante
+799;Argentina;JOGADOR;Meia Argentina;Meia
+800;Argentina;JOGADOR;Meia Argentina;Meia
+801;Argentina;JOGADOR;Ponta Direita Argentina;Ponta Direita
+802;Argentina;JOGADOR;Atacante Argentina;Atacante
+803;Argentina;JOGADOR;Ponta Esquerda Argentina;Ponta Esquerda
+804;Argentina;JOGADOR;Goleiro Reserva Argentina;Goleiro Reserva
+805;Argentina;JOGADOR;Defensor Reserva Argentina;Defensor Reserva
+806;Argentina;JOGADOR;Defensor Reserva Argentina;Defensor Reserva
+807;Argentina;JOGADOR;Meio-campista Reserva Argentina;Meio-campista Reserva
+808;Argentina;JOGADOR;Meio-campista Reserva Argentina;Meio-campista Reserva
+809;Argentina;JOGADOR;Atacante Reserva Argentina;Atacante Reserva
+810;Argentina;JOGADOR;Atacante Reserva Argentina;Atacante Reserva
+811;Argentina;TECNICO;Técnico Argentina;Comissão técnica
+812;Argentina;BRASAO;Escudo Argentina;Brasão oficial da seleção
+813;Argentina;BANDEIRA;Bandeira Argentina;Bandeira nacional
+814;Argentina;ESTADIO;Estádio Argentina;Estádio relacionado à seleção
+815;Argélia;JOGADOR;Goleiro Argélia;Goleiro
+816;Argélia;JOGADOR;Lateral Direito Argélia;Lateral Direito
+817;Argélia;JOGADOR;Zagueiro Argélia;Zagueiro
+818;Argélia;JOGADOR;Zagueiro Argélia;Zagueiro
+819;Argélia;JOGADOR;Lateral Esquerdo Argélia;Lateral Esquerdo
+820;Argélia;JOGADOR;Volante Argélia;Volante
+821;Argélia;JOGADOR;Meia Argélia;Meia
+822;Argélia;JOGADOR;Meia Argélia;Meia
+823;Argélia;JOGADOR;Ponta Direita Argélia;Ponta Direita
+824;Argélia;JOGADOR;Atacante Argélia;Atacante
+825;Argélia;JOGADOR;Ponta Esquerda Argélia;Ponta Esquerda
+826;Argélia;JOGADOR;Goleiro Reserva Argélia;Goleiro Reserva
+827;Argélia;JOGADOR;Defensor Reserva Argélia;Defensor Reserva
+828;Argélia;JOGADOR;Defensor Reserva Argélia;Defensor Reserva
+829;Argélia;JOGADOR;Meio-campista Reserva Argélia;Meio-campista Reserva
+830;Argélia;JOGADOR;Meio-campista Reserva Argélia;Meio-campista Reserva
+831;Argélia;JOGADOR;Atacante Reserva Argélia;Atacante Reserva
+832;Argélia;JOGADOR;Atacante Reserva Argélia;Atacante Reserva
+833;Argélia;TECNICO;Técnico Argélia;Comissão técnica
+834;Argélia;BRASAO;Escudo Argélia;Brasão oficial da seleção
+835;Argélia;BANDEIRA;Bandeira Argélia;Bandeira nacional
+836;Argélia;ESTADIO;Estádio Argélia;Estádio relacionado à seleção
+837;Áustria;JOGADOR;Goleiro Áustria;Goleiro
+838;Áustria;JOGADOR;Lateral Direito Áustria;Lateral Direito
+839;Áustria;JOGADOR;Zagueiro Áustria;Zagueiro
+840;Áustria;JOGADOR;Zagueiro Áustria;Zagueiro
+841;Áustria;JOGADOR;Lateral Esquerdo Áustria;Lateral Esquerdo
+842;Áustria;JOGADOR;Volante Áustria;Volante
+843;Áustria;JOGADOR;Meia Áustria;Meia
+844;Áustria;JOGADOR;Meia Áustria;Meia
+845;Áustria;JOGADOR;Ponta Direita Áustria;Ponta Direita
+846;Áustria;JOGADOR;Atacante Áustria;Atacante
+847;Áustria;JOGADOR;Ponta Esquerda Áustria;Ponta Esquerda
+848;Áustria;JOGADOR;Goleiro Reserva Áustria;Goleiro Reserva
+849;Áustria;JOGADOR;Defensor Reserva Áustria;Defensor Reserva
+850;Áustria;JOGADOR;Defensor Reserva Áustria;Defensor Reserva
+851;Áustria;JOGADOR;Meio-campista Reserva Áustria;Meio-campista Reserva
+852;Áustria;JOGADOR;Meio-campista Reserva Áustria;Meio-campista Reserva
+853;Áustria;JOGADOR;Atacante Reserva Áustria;Atacante Reserva
+854;Áustria;JOGADOR;Atacante Reserva Áustria;Atacante Reserva
+855;Áustria;TECNICO;Técnico Áustria;Comissão técnica
+856;Áustria;BRASAO;Escudo Áustria;Brasão oficial da seleção
+857;Áustria;BANDEIRA;Bandeira Áustria;Bandeira nacional
+858;Áustria;ESTADIO;Estádio Áustria;Estádio relacionado à seleção
+859;Jordânia;JOGADOR;Goleiro Jordânia;Goleiro
+860;Jordânia;JOGADOR;Lateral Direito Jordânia;Lateral Direito
+861;Jordânia;JOGADOR;Zagueiro Jordânia;Zagueiro
+862;Jordânia;JOGADOR;Zagueiro Jordânia;Zagueiro
+863;Jordânia;JOGADOR;Lateral Esquerdo Jordânia;Lateral Esquerdo
+864;Jordânia;JOGADOR;Volante Jordânia;Volante
+865;Jordânia;JOGADOR;Meia Jordânia;Meia
+866;Jordânia;JOGADOR;Meia Jordânia;Meia
+867;Jordânia;JOGADOR;Ponta Direita Jordânia;Ponta Direita
+868;Jordânia;JOGADOR;Atacante Jordânia;Atacante
+869;Jordânia;JOGADOR;Ponta Esquerda Jordânia;Ponta Esquerda
+870;Jordânia;JOGADOR;Goleiro Reserva Jordânia;Goleiro Reserva
+871;Jordânia;JOGADOR;Defensor Reserva Jordânia;Defensor Reserva
+872;Jordânia;JOGADOR;Defensor Reserva Jordânia;Defensor Reserva
+873;Jordânia;JOGADOR;Meio-campista Reserva Jordânia;Meio-campista Reserva
+874;Jordânia;JOGADOR;Meio-campista Reserva Jordânia;Meio-campista Reserva
+875;Jordânia;JOGADOR;Atacante Reserva Jordânia;Atacante Reserva
+876;Jordânia;JOGADOR;Atacante Reserva Jordânia;Atacante Reserva
+877;Jordânia;TECNICO;Técnico Jordânia;Comissão técnica
+878;Jordânia;BRASAO;Escudo Jordânia;Brasão oficial da seleção
+879;Jordânia;BANDEIRA;Bandeira Jordânia;Bandeira nacional
+880;Jordânia;ESTADIO;Estádio Jordânia;Estádio relacionado à seleção
+881;Portugal;JOGADOR;Goleiro Portugal;Goleiro
+882;Portugal;JOGADOR;Lateral Direito Portugal;Lateral Direito
+883;Portugal;JOGADOR;Zagueiro Portugal;Zagueiro
+884;Portugal;JOGADOR;Zagueiro Portugal;Zagueiro
+885;Portugal;JOGADOR;Lateral Esquerdo Portugal;Lateral Esquerdo
+886;Portugal;JOGADOR;Volante Portugal;Volante
+887;Portugal;JOGADOR;Meia Portugal;Meia
+888;Portugal;JOGADOR;Meia Portugal;Meia
+889;Portugal;JOGADOR;Ponta Direita Portugal;Ponta Direita
+890;Portugal;JOGADOR;Atacante Portugal;Atacante
+891;Portugal;JOGADOR;Ponta Esquerda Portugal;Ponta Esquerda
+892;Portugal;JOGADOR;Goleiro Reserva Portugal;Goleiro Reserva
+893;Portugal;JOGADOR;Defensor Reserva Portugal;Defensor Reserva
+894;Portugal;JOGADOR;Defensor Reserva Portugal;Defensor Reserva
+895;Portugal;JOGADOR;Meio-campista Reserva Portugal;Meio-campista Reserva
+896;Portugal;JOGADOR;Meio-campista Reserva Portugal;Meio-campista Reserva
+897;Portugal;JOGADOR;Atacante Reserva Portugal;Atacante Reserva
+898;Portugal;JOGADOR;Atacante Reserva Portugal;Atacante Reserva
+899;Portugal;TECNICO;Técnico Portugal;Comissão técnica
+900;Portugal;BRASAO;Escudo Portugal;Brasão oficial da seleção
+901;Portugal;BANDEIRA;Bandeira Portugal;Bandeira nacional
+902;Portugal;ESTADIO;Estádio Portugal;Estádio relacionado à seleção
+903;RD Congo;JOGADOR;Goleiro RD Congo;Goleiro
+904;RD Congo;JOGADOR;Lateral Direito RD Congo;Lateral Direito
+905;RD Congo;JOGADOR;Zagueiro RD Congo;Zagueiro
+906;RD Congo;JOGADOR;Zagueiro RD Congo;Zagueiro
+907;RD Congo;JOGADOR;Lateral Esquerdo RD Congo;Lateral Esquerdo
+908;RD Congo;JOGADOR;Volante RD Congo;Volante
+909;RD Congo;JOGADOR;Meia RD Congo;Meia
+910;RD Congo;JOGADOR;Meia RD Congo;Meia
+911;RD Congo;JOGADOR;Ponta Direita RD Congo;Ponta Direita
+912;RD Congo;JOGADOR;Atacante RD Congo;Atacante
+913;RD Congo;JOGADOR;Ponta Esquerda RD Congo;Ponta Esquerda
+914;RD Congo;JOGADOR;Goleiro Reserva RD Congo;Goleiro Reserva
+915;RD Congo;JOGADOR;Defensor Reserva RD Congo;Defensor Reserva
+916;RD Congo;JOGADOR;Defensor Reserva RD Congo;Defensor Reserva
+917;RD Congo;JOGADOR;Meio-campista Reserva RD Congo;Meio-campista Reserva
+918;RD Congo;JOGADOR;Meio-campista Reserva RD Congo;Meio-campista Reserva
+919;RD Congo;JOGADOR;Atacante Reserva RD Congo;Atacante Reserva
+920;RD Congo;JOGADOR;Atacante Reserva RD Congo;Atacante Reserva
+921;RD Congo;TECNICO;Técnico RD Congo;Comissão técnica
+922;RD Congo;BRASAO;Escudo RD Congo;Brasão oficial da seleção
+923;RD Congo;BANDEIRA;Bandeira RD Congo;Bandeira nacional
+924;RD Congo;ESTADIO;Estádio RD Congo;Estádio relacionado à seleção
+925;Uzbequistão;JOGADOR;Goleiro Uzbequistão;Goleiro
+926;Uzbequistão;JOGADOR;Lateral Direito Uzbequistão;Lateral Direito
+927;Uzbequistão;JOGADOR;Zagueiro Uzbequistão;Zagueiro
+928;Uzbequistão;JOGADOR;Zagueiro Uzbequistão;Zagueiro
+929;Uzbequistão;JOGADOR;Lateral Esquerdo Uzbequistão;Lateral Esquerdo
+930;Uzbequistão;JOGADOR;Volante Uzbequistão;Volante
+931;Uzbequistão;JOGADOR;Meia Uzbequistão;Meia
+932;Uzbequistão;JOGADOR;Meia Uzbequistão;Meia
+933;Uzbequistão;JOGADOR;Ponta Direita Uzbequistão;Ponta Direita
+934;Uzbequistão;JOGADOR;Atacante Uzbequistão;Atacante
+935;Uzbequistão;JOGADOR;Ponta Esquerda Uzbequistão;Ponta Esquerda
+936;Uzbequistão;JOGADOR;Goleiro Reserva Uzbequistão;Goleiro Reserva
+937;Uzbequistão;JOGADOR;Defensor Reserva Uzbequistão;Defensor Reserva
+938;Uzbequistão;JOGADOR;Defensor Reserva Uzbequistão;Defensor Reserva
+939;Uzbequistão;JOGADOR;Meio-campista Reserva Uzbequistão;Meio-campista Reserva
+940;Uzbequistão;JOGADOR;Meio-campista Reserva Uzbequistão;Meio-campista Reserva
+941;Uzbequistão;JOGADOR;Atacante Reserva Uzbequistão;Atacante Reserva
+942;Uzbequistão;JOGADOR;Atacante Reserva Uzbequistão;Atacante Reserva
+943;Uzbequistão;TECNICO;Técnico Uzbequistão;Comissão técnica
+944;Uzbequistão;BRASAO;Escudo Uzbequistão;Brasão oficial da seleção
+945;Uzbequistão;BANDEIRA;Bandeira Uzbequistão;Bandeira nacional
+946;Uzbequistão;ESTADIO;Estádio Uzbequistão;Estádio relacionado à seleção
+947;Colômbia;JOGADOR;Goleiro Colômbia;Goleiro
+948;Colômbia;JOGADOR;Lateral Direito Colômbia;Lateral Direito
+949;Colômbia;JOGADOR;Zagueiro Colômbia;Zagueiro
+950;Colômbia;JOGADOR;Zagueiro Colômbia;Zagueiro
+951;Colômbia;JOGADOR;Lateral Esquerdo Colômbia;Lateral Esquerdo
+952;Colômbia;JOGADOR;Volante Colômbia;Volante
+953;Colômbia;JOGADOR;Meia Colômbia;Meia
+954;Colômbia;JOGADOR;Meia Colômbia;Meia
+955;Colômbia;JOGADOR;Ponta Direita Colômbia;Ponta Direita
+956;Colômbia;JOGADOR;Atacante Colômbia;Atacante
+957;Colômbia;JOGADOR;Ponta Esquerda Colômbia;Ponta Esquerda
+958;Colômbia;JOGADOR;Goleiro Reserva Colômbia;Goleiro Reserva
+959;Colômbia;JOGADOR;Defensor Reserva Colômbia;Defensor Reserva
+960;Colômbia;JOGADOR;Defensor Reserva Colômbia;Defensor Reserva
+961;Colômbia;JOGADOR;Meio-campista Reserva Colômbia;Meio-campista Reserva
+962;Colômbia;JOGADOR;Meio-campista Reserva Colômbia;Meio-campista Reserva
+963;Colômbia;JOGADOR;Atacante Reserva Colômbia;Atacante Reserva
+964;Colômbia;JOGADOR;Atacante Reserva Colômbia;Atacante Reserva
+965;Colômbia;TECNICO;Técnico Colômbia;Comissão técnica
+966;Colômbia;BRASAO;Escudo Colômbia;Brasão oficial da seleção
+967;Colômbia;BANDEIRA;Bandeira Colômbia;Bandeira nacional
+968;Colômbia;ESTADIO;Estádio Colômbia;Estádio relacionado à seleção
+969;Inglaterra;JOGADOR;Goleiro Inglaterra;Goleiro
+970;Inglaterra;JOGADOR;Lateral Direito Inglaterra;Lateral Direito
+971;Inglaterra;JOGADOR;Zagueiro Inglaterra;Zagueiro
+972;Inglaterra;JOGADOR;Zagueiro Inglaterra;Zagueiro
+973;Inglaterra;JOGADOR;Lateral Esquerdo Inglaterra;Lateral Esquerdo
+974;Inglaterra;JOGADOR;Volante Inglaterra;Volante
+975;Inglaterra;JOGADOR;Meia Inglaterra;Meia
+976;Inglaterra;JOGADOR;Meia Inglaterra;Meia
+977;Inglaterra;JOGADOR;Ponta Direita Inglaterra;Ponta Direita
+978;Inglaterra;JOGADOR;Atacante Inglaterra;Atacante
+979;Inglaterra;JOGADOR;Ponta Esquerda Inglaterra;Ponta Esquerda
+980;Inglaterra;JOGADOR;Goleiro Reserva Inglaterra;Goleiro Reserva
+981;Inglaterra;JOGADOR;Defensor Reserva Inglaterra;Defensor Reserva
+982;Inglaterra;JOGADOR;Defensor Reserva Inglaterra;Defensor Reserva
+983;Inglaterra;JOGADOR;Meio-campista Reserva Inglaterra;Meio-campista Reserva
+984;Inglaterra;JOGADOR;Meio-campista Reserva Inglaterra;Meio-campista Reserva
+985;Inglaterra;JOGADOR;Atacante Reserva Inglaterra;Atacante Reserva
+986;Inglaterra;JOGADOR;Atacante Reserva Inglaterra;Atacante Reserva
+987;Inglaterra;TECNICO;Técnico Inglaterra;Comissão técnica
+988;Inglaterra;BRASAO;Escudo Inglaterra;Brasão oficial da seleção
+989;Inglaterra;BANDEIRA;Bandeira Inglaterra;Bandeira nacional
+990;Inglaterra;ESTADIO;Estádio Inglaterra;Estádio relacionado à seleção
+991;Croácia;JOGADOR;Goleiro Croácia;Goleiro
+992;Croácia;JOGADOR;Lateral Direito Croácia;Lateral Direito
+993;Croácia;JOGADOR;Zagueiro Croácia;Zagueiro
+994;Croácia;JOGADOR;Zagueiro Croácia;Zagueiro
+995;Croácia;JOGADOR;Lateral Esquerdo Croácia;Lateral Esquerdo
+996;Croácia;JOGADOR;Volante Croácia;Volante
+997;Croácia;JOGADOR;Meia Croácia;Meia
+998;Croácia;JOGADOR;Meia Croácia;Meia
+999;Croácia;JOGADOR;Ponta Direita Croácia;Ponta Direita
+1000;Croácia;JOGADOR;Atacante Croácia;Atacante
+1001;Croácia;JOGADOR;Ponta Esquerda Croácia;Ponta Esquerda
+1002;Croácia;JOGADOR;Goleiro Reserva Croácia;Goleiro Reserva
+1003;Croácia;JOGADOR;Defensor Reserva Croácia;Defensor Reserva
+1004;Croácia;JOGADOR;Defensor Reserva Croácia;Defensor Reserva
+1005;Croácia;JOGADOR;Meio-campista Reserva Croácia;Meio-campista Reserva
+1006;Croácia;JOGADOR;Meio-campista Reserva Croácia;Meio-campista Reserva
+1007;Croácia;JOGADOR;Atacante Reserva Croácia;Atacante Reserva
+1008;Croácia;JOGADOR;Atacante Reserva Croácia;Atacante Reserva
+1009;Croácia;TECNICO;Técnico Croácia;Comissão técnica
+1010;Croácia;BRASAO;Escudo Croácia;Brasão oficial da seleção
+1011;Croácia;BANDEIRA;Bandeira Croácia;Bandeira nacional
+1012;Croácia;ESTADIO;Estádio Croácia;Estádio relacionado à seleção
+1013;Gana;JOGADOR;Goleiro Gana;Goleiro
+1014;Gana;JOGADOR;Lateral Direito Gana;Lateral Direito
+1015;Gana;JOGADOR;Zagueiro Gana;Zagueiro
+1016;Gana;JOGADOR;Zagueiro Gana;Zagueiro
+1017;Gana;JOGADOR;Lateral Esquerdo Gana;Lateral Esquerdo
+1018;Gana;JOGADOR;Volante Gana;Volante
+1019;Gana;JOGADOR;Meia Gana;Meia
+1020;Gana;JOGADOR;Meia Gana;Meia
+1021;Gana;JOGADOR;Ponta Direita Gana;Ponta Direita
+1022;Gana;JOGADOR;Atacante Gana;Atacante
+1023;Gana;JOGADOR;Ponta Esquerda Gana;Ponta Esquerda
+1024;Gana;JOGADOR;Goleiro Reserva Gana;Goleiro Reserva
+1025;Gana;JOGADOR;Defensor Reserva Gana;Defensor Reserva
+1026;Gana;JOGADOR;Defensor Reserva Gana;Defensor Reserva
+1027;Gana;JOGADOR;Meio-campista Reserva Gana;Meio-campista Reserva
+1028;Gana;JOGADOR;Meio-campista Reserva Gana;Meio-campista Reserva
+1029;Gana;JOGADOR;Atacante Reserva Gana;Atacante Reserva
+1030;Gana;JOGADOR;Atacante Reserva Gana;Atacante Reserva
+1031;Gana;TECNICO;Técnico Gana;Comissão técnica
+1032;Gana;BRASAO;Escudo Gana;Brasão oficial da seleção
+1033;Gana;BANDEIRA;Bandeira Gana;Bandeira nacional
+1034;Gana;ESTADIO;Estádio Gana;Estádio relacionado à seleção
+1035;Panamá;JOGADOR;Goleiro Panamá;Goleiro
+1036;Panamá;JOGADOR;Lateral Direito Panamá;Lateral Direito
+1037;Panamá;JOGADOR;Zagueiro Panamá;Zagueiro
+1038;Panamá;JOGADOR;Zagueiro Panamá;Zagueiro
+1039;Panamá;JOGADOR;Lateral Esquerdo Panamá;Lateral Esquerdo
+1040;Panamá;JOGADOR;Volante Panamá;Volante
+1041;Panamá;JOGADOR;Meia Panamá;Meia
+1042;Panamá;JOGADOR;Meia Panamá;Meia
+1043;Panamá;JOGADOR;Ponta Direita Panamá;Ponta Direita
+1044;Panamá;JOGADOR;Atacante Panamá;Atacante
+1045;Panamá;JOGADOR;Ponta Esquerda Panamá;Ponta Esquerda
+1046;Panamá;JOGADOR;Goleiro Reserva Panamá;Goleiro Reserva
+1047;Panamá;JOGADOR;Defensor Reserva Panamá;Defensor Reserva
+1048;Panamá;JOGADOR;Defensor Reserva Panamá;Defensor Reserva
+1049;Panamá;JOGADOR;Meio-campista Reserva Panamá;Meio-campista Reserva
+1050;Panamá;JOGADOR;Meio-campista Reserva Panamá;Meio-campista Reserva
+1051;Panamá;JOGADOR;Atacante Reserva Panamá;Atacante Reserva
+1052;Panamá;JOGADOR;Atacante Reserva Panamá;Atacante Reserva
+1053;Panamá;TECNICO;Técnico Panamá;Comissão técnica
+1054;Panamá;BRASAO;Escudo Panamá;Brasão oficial da seleção
+1055;Panamá;BANDEIRA;Bandeira Panamá;Bandeira nacional
+1056;Panamá;ESTADIO;Estádio Panamá;Estádio relacionado à seleção
+1057;Copa 2026;ESPECIAL;Troféu da Copa;Figurinha especial do troféu
+1058;Copa 2026;ESPECIAL;Mascote Oficial;Figurinha especial do mascote
+1059;Copa 2026;ESPECIAL;Bola Oficial;Figurinha especial da bola
+1060;Copa 2026;LENDARIA;Craque Lendário 1;Figurinha lendária
+1061;Copa 2026;LENDARIA;Craque Lendário 2;Figurinha lendária
+1062;Copa 2026;LENDARIA;Craque Lendário 3;Figurinha lendária
+1063;Copa 2026;ESPECIAL;Abertura da Copa;Figurinha especial da cerimônia de abertura
+1064;Copa 2026;ESPECIAL;Final da Copa;Figurinha especial da final
